@@ -1,0 +1,11 @@
+{
+  "name": "study-every-day",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lixudong96/study-every-day.git",
+  "author": "xudong li <303001274@qq.com>",
+  "license": "MIT",
+  "script": {
+    "dev": "node ./2.promise.js"
+  }
+}
