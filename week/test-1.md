@@ -16,3 +16,4 @@
 #### 翻译issues labels
 - [LoTwT-issues labels](https://github.com/LoTwT/vue3-study/blob/master/src/docs/TranslateLabels.md)
 - [fengjinlong-issues labels](https://github.com/fengjinlong/vue3-issues/blob/main/issues的Labels/labels.md)
+- [lixudong96-issues labels](https://github.com/lixudong96/study-every-day/blob/main/1.labels-translation.md)
