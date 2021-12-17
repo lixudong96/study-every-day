@@ -17,3 +17,8 @@
 
 #### vue-magic-issues2
 - [jp-liu](https://github.com/jp-liu/study-every-day/blob/main/src/vue/vue-issues/%231111/index.md)
+- [fengjinlong](https://github.com/fengjinlong/vue3-issues/blob/main/reactive%E5%92%8Cref%E7%9A%84%E7%B1%BB%E5%9E%8B%E6%8E%A8%E5%AF%BC%E9%94%99%E8%AF%AF/1111.md)
+- [lixudong86](https://github.com/lixudong96/study-every-day/blob/main/3.vue-magic-2.md)
+
+#### 翻译Vue Contributing Guide
+- [fengjinlong](https://github.com/fengjinlong/vue3-issues/blob/main/ContributingGuide/guide.md)
